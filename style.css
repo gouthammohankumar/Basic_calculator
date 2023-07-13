@@ -1,0 +1,33 @@
+body
+{
+    background: blanchedalmond;
+}
+h1
+{
+  background: gray;
+  color:black;
+  height: 50px;
+  text-align: center;
+  padding-top: 25px;
+}
+h3
+{
+    background: khaki;
+    color: rgb(233, 13, 13);
+    height: 25px;
+    text-align: center;
+    padding-top: 2
+    0px;
+}
+div
+{
+    background: palegreen;
+    height: 50px;
+    width: 500px;
+    margin: auto;
+}
+p
+{
+    text-align: center;
+    padding-top: 20px;
+}
